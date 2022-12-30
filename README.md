@@ -1,4 +1,11 @@
 
+# Work at Oasis Infobyte
+
+I made this repository to show my work done with Oasis Infobyte while interning in it.
+
+
+
+
 ## My tasks were
 ###  IRIS FLOWER CLASSIFICATION
 Iris flower has three species; setosa, versicolor, and virginica, which differs according to their
